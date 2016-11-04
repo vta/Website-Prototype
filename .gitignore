@@ -18,3 +18,5 @@
 
 # ImageProcessor DiskCache 
 **/App_Data/cache/
+
+.vs
